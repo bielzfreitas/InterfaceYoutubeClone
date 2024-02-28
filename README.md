@@ -1,4 +1,4 @@
 # InterfaceYoutubeClone
-HTML and CSS
+Project in HTML and CSS
 
 - Feito com a Rocketseat
